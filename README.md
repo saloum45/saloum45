@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salem Malick Mohamed</h1>
 <h3 align="center">A passionate website developer</h3>
-<img align="right" alt="coding" width="400px" src"https://tenor.com/fr/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+<img align="right" alt="coding" width="400px" src"[https://tenor.com/fr/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 - 🔭 I’m currently working on **Responsive WEBSITE**
 
