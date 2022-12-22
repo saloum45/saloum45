@@ -14,6 +14,7 @@
 - 📫 How to reach me **saloumfall45@gmail.com**
 
 - ⚡ Fun fact **I think i funny and life is better with joy**
+- <img align="right" alt="coding" width="400px" src"https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
