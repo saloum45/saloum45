@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Responsive WEBSITE**
 
-- 🌱 I’m currently learning **Frameworks, new techlogies, languadges**
+- 🌱 I’m currently learning **Frameworks, new techlogies, programming language**
 
 - 👯 I’m looking to collaborate on **HOSPITAL WEBSITE**
 
