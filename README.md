@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Frameworks**
 
-- 💬 Ask me about **PHP, JAVA,**
+- 💬 Ask me about **PHP, JAVA, CSS, HTML, JS**
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
