@@ -26,3 +26,4 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saloum45&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saloum45&show_icons=true&theme=radical)
