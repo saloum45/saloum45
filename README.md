@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
-- ⚡ Fun fact **I think i funny and life is better with joy**
+- ⚡ Fun fact **I think i'm funny and life is better with joy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
