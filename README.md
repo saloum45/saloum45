@@ -1,3 +1,4 @@
+![logo](https://github.com/saloum45/saloum45/blob/main/slims%20fullstrack.jpg )
 <h1 align="center">Hi 👋, I'm Salem Malick Mohamed</h1>
 <h3 align="center">A passionate website developer</h3>
 - 🔭 I’m currently working on **Responsive WEBSITE**
