@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Frameworks**
 
-- 💬 Ask me about **PHP, JAVA, CSS, HTML, JS**
+- 💬 Ask me about **PHP, JAVA, CSS, HTML, JS, Angular**
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
