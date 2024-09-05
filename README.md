@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Responsive WEBSITE**
 
-- 🌱 I’m currently learning **Frameworks, new techlogies, programming language**
+- 🌱 I’m currently learning **Frameworks, new techlogies, Devops practices**
 
-- 👯 I’m looking to collaborate on **HOSPITAL WEBSITE**
+- 👯 I’m looking to collaborate on **Big projects**
 
-- 🤝 I’m looking for help with **Frameworks**
+- 🤝 I’m looking for help with **New challenges**
 
-- 💬 Ask me about **PHP, JAVA, CSS, HTML, JS, Angular**
+- 💬 Ask me about **PHP, Ionic, CSS, HTML, JS, Angular, Figma**
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny and life is better with joy**
+- ⚡ Fun fact **Someone's opinion of you doesn't have to become your reality.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
