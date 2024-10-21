@@ -1,5 +1,5 @@
 ![logo](https://github.com/saloum45/saloum45/blob/main/image.png )
-<h1 align="center">Hi 👋, I'm Salem Malick Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Salem Malick MOHAMED</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 
