@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **New challenges**
 
-- 💬 Ask me about **PHP, Ionic, CSS, HTML, JS, Angular, Figma**
+- 💬 Ask me about **PHP, Ionic, Electron js, Angular, Laravel, Figma**
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
