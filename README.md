@@ -1,6 +1,6 @@
 ![logo](https://github.com/saloum45/saloum45/blob/main/image.png )
 <h1 align="center">Hi 👋, I'm Salem Malick MOHAMED</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 
 - 🔭 I’m currently working on **decision-making application**
