@@ -20,8 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saloumfall15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saloumfall15" height="30" width="40" /></a>
-<a href="https://fb.com/slim zo fall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="slim zo fall" height="30" width="40" /></a>
-<a href="https://instagram.com/slim zo fall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slim zo fall" height="30" width="40" /></a>
+<a href="https://instagram.com/salem_malick_mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slim zo fall" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/salem-malick-mohamed-462a7525b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem malick mohamed" height="30" width="40" /></a>
 </p>
 
