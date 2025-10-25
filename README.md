@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
-- ⚡ Fun fact : **Someone's opinion of you doesn't have to become your reality.**
+- ⚡ Pife philosophy : **Someone's opinion of you doesn't have to become your reality.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
