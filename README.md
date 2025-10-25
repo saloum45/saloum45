@@ -1,4 +1,4 @@
-![logo](https://github.com/saloum45/saloum45/blob/main/image.png )
+![logo](https://github.com/saloum45/saloum45/blob/main/building_chitari.png )
 <h1 align="center">Hi 👋, I'm Salem Malick MOHAMED</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
