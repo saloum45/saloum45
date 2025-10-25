@@ -3,15 +3,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 
-- 🔭 I’m currently working on **decision-making application**
-
-- 🌱 I’m currently learning **Frameworks, new techlogies, Devops practices**
-
-- 👯 I’m looking to collaborate on **Big projects**
-
-- 🤝 I’m looking for help with **New challenges**
-
-- 💬 Ask me about **PHP, Ionic, Electron js, Angular, Laravel, Figma**
+- 🔭 I’m currently building **Chitari Tech**
 
 - 📫 How to reach me **saloumfall45@gmail.com**
 
