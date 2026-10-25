@@ -27,7 +27,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ionic,laravel,bootstrap,mysql,socketio,pm2&perline=7" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=angular,laravel,bootstrap,mysql,socketio,pm2&perline=7" alt="skills"/>
 </p>
 
 <p align="left">
