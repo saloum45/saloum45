@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Salem Malick MOHAMED</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Full+Data+Stack+Developer;Building+Chitari+Tech+%F0%9F%9A%80;Web+%26+Mobile+Apps+(Angular%2C+Ionic%2C+Laravel);Based+in+Dakar%2C+Senegal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=FullStack+Data+Developer;Building+Chitari+Tech+%F0%9F%9A%80;Web+%26+Mobile+Apps+(Angular%2C+Ionic%2C+Laravel);Based+in+Dakar%2C+Senegal+%F0%9F%87%B8%F0%9F%87%B3" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 ### 🚀 About me
 
-- 🔭 Currently building **[Chitari Tech](https://github.com/saloum45)**: digital transformation, web, mobile & custom software
-- 🌍 Working with clients across West Africa
+- 🔭 Currently building **[Chitari Tech](https://github.com/saloum45)**: digital transformation, web, mobile , Data pipeline maker & BI
+- 🌍 Working with clients across World
 - 📫 Reach me: **saloumfall45@gmail.com**
 - ⚡ Life philosophy: *"Someone's opinion of you doesn't have to become your reality."*
 
