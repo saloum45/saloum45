@@ -15,15 +15,6 @@
 
 ---
 
-### 🚀 About me
-
-- 🔭 Currently building **[Chitari Tech](https://github.com/saloum45)**: digital transformation, web, mobile , Data pipeline maker & BI
-- 🌍 Working with clients across World
-- 📫 Reach me: **saloumfall45@gmail.com**
-- ⚡ Life philosophy: *"Someone's opinion of you doesn't have to become your reality."*
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
