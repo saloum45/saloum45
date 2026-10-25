@@ -15,6 +15,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saloum45/saloum45/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -40,14 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saloum45&theme=radical&hide_border=true" alt="streak"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saloum45/saloum45/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
 ---
