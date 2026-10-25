@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-  <img src="https://img.shields.io/badge/streamlit?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
+  <img src="https://img.shields.io/badge/Streamlit-29B5E8?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
 </p>
 
 ---
