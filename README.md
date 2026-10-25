@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/saloum45/saloum45/main/building_chitari.png" alt="Chitari Tech" width="200"/>
 </p>
 
-<h3 align="center">Hi 👋, I'm Salem DEV </h3>
+<h2 align="center">Hi 👋, I'm Salem DEV </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=FullStack+Data+Developer;Building+Chitari+Tech+%F0%9F%9A%80;" alt="Typing SVG" />
