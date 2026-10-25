@@ -27,7 +27,14 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,ionic,laravel,php,mysql,nodejs,typescript,electron,bootstrap,git,github,vscode&perline=12" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=angular,ionic,laravel,bootstrap,mysql,socketio,pm2&perline=7" alt="skills"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/dlt-14B8A6?style=for-the-badge&logo=python&logoColor=white" alt="dlt"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 </p>
 
 ---
