@@ -32,7 +32,7 @@
 </p>
 
 ---
-### 😇💻 My Open Source Funny and Helpful Projects
+### 😇💻 My Funny and Helpful Open Source Project's
 
 | Package Name | Description | License | Repository / Registry |
 | :--- | :--- | :--- | :--- |
